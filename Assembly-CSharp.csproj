@@ -87,6 +87,7 @@
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\StepTrigger.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\Utility\StepsManager.cs" />
      <Compile Include="Assets\Malbers Animations\Common\Scripts\iMalbersInput.cs" />
+     <Compile Include="Assets\prefabs\Player.cs" />
      <None Include="Assets\Malbers Animations\Common\Materials\Color16.shader" />
      <None Include="Assets\Malbers Animations\Common\Materials\2Side.shader" />
      <None Include="Assets\Malbers Animations\Common\Materials\Color8.shader" />
